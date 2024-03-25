@@ -15,13 +15,13 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
+
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: pavithran m j
 RegisterNumber:  212223240112
 */
-```
-```import pandas as pd
+import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error,mean_squared_error
@@ -62,7 +62,8 @@ print('MSE = ',mse)
 mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
-print("RMSE= ",rmse)```
+print("RMSE= ",rmse)
+```
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
 ##Dataset:![Screenshot 2024-03-25 082534](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/dc161538-02f1-4b79-a632-9783951800ad)

@@ -66,13 +66,20 @@ print("RMSE= ",rmse)
 ```
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
-## Dataset:![Screenshot 2024-03-25 082534](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/dc161538-02f1-4b79-a632-9783951800ad)
-## Head values:![Screenshot 2024-03-25 082552](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/f069b9b3-e072-426f-921b-9cb99ba7adac)
-## Tail values:![Screenshot 2024-03-25 082600](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/d853d680-b2e5-4669-ab73-2cce8b85e349)
-## X and Y values:![Screenshot 2024-03-25 082616](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/72c7c1c5-2bed-405b-b8b4-9840db5e9d1f)
-## predication value of x and y:![Screenshot 2024-03-25 082637](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/6fea6303-9914-45e0-af1e-6e947172110c)
+## Dataset:
+![Screenshot 2024-03-25 082534](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/dc161538-02f1-4b79-a632-9783951800ad)
+## Head values:
+![Screenshot 2024-03-25 082552](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/f069b9b3-e072-426f-921b-9cb99ba7adac)
+## Tail values:
+![Screenshot 2024-03-25 082600](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/d853d680-b2e5-4669-ab73-2cce8b85e349)
+## X and Y values:
+![Screenshot 2024-03-25 082616](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/72c7c1c5-2bed-405b-b8b4-9840db5e9d1f)
+## predication value of x and y:
+![Screenshot 2024-03-25 082637](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/6fea6303-9914-45e0-af1e-6e947172110c)
 ## MSE,MAE and RMSE:![Screenshot 2024-03-25 082646](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/3b804304-ec97-46db-a50b-b68b4137e1d1)
-## Training Set:![Screenshot 2024-03-25 082715](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/7e620b97-83dc-466d-bd50-bd245b02909c)
-## Testing Set:![Screenshot 2024-03-25 082729](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/8e5d49ee-081c-4a2a-88fe-b6ac285ec540)
+## Training Set:
+![Screenshot 2024-03-25 082715](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/7e620b97-83dc-466d-bd50-bd245b02909c)
+## Testing Set:
+![Screenshot 2024-03-25 082729](https://github.com/Pavithranmurugan13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/163802201/8e5d49ee-081c-4a2a-88fe-b6ac285ec540)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
